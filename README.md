@@ -24,5 +24,5 @@ It showcases popular destinations, travel packages, and provides an engaging use
 travel-website/
 │-- index.html
 │-- style.css
-│-- images/ (contains all images used)
+│-- Travel.png
 │-- README.md
